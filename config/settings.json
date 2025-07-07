@@ -1,0 +1,6 @@
+{
+  "openai_api_key": "YOUR_OPENAI_API_KEY_HERE",
+  "mongo_uri": "mongodb://localhost:27017/arsinek-wa-bot",
+  "admins": [],
+  "log_level": "info"
+}
